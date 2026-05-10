@@ -3752,7 +3752,6 @@ physics_layer_0/collision_layer = 1
 sources/0 = SubResource("TileSetAtlasSource_4mcyf")
 
 [node name="world" type="Node2D" unique_id=59976293]
-position = Vector2(1, 1)
 
 [node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=1180605525]
 texture_filter = 1
